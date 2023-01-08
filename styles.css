@@ -15,7 +15,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            height: auto;
             margin: 0;
         }
         
@@ -156,10 +156,11 @@
 
         .gray{
             background-color: #1f2937;
-            height: 60vh;
+            height: auto;
             display: flex;
             justify-content: space-evenly;
             align-items: center;
+            padding: 100px;
         }
 
 
